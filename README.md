@@ -17,6 +17,9 @@ ls
 
 **Output:**
 
+<img width="841" height="126" alt="image" src="https://github.com/user-attachments/assets/3036df4f-9b3f-4f9e-a329-9c06b4bcb662" />
+
+
 ### 2. `pwd` Command
 
 The `pwd` command displays the location of the current working directory.
@@ -27,6 +30,9 @@ pwd
 ```
 
 **Output:**
+
+<img width="809" height="69" alt="image" src="https://github.com/user-attachments/assets/9ecef696-0e30-47fd-8fd4-2f9036da6f7f" />
+
 
 ### 3. `mkdir` Command
 
@@ -39,6 +45,9 @@ mkdir <directory_name>
 
 **Output:**
 
+<img width="819" height="131" alt="image" src="https://github.com/user-attachments/assets/b8f67174-ff8c-447a-b617-9ac6b7b094f3" />
+
+
 ### 4. `rmdir` Command
 
 The `rmdir` command is used to delete a directory.
@@ -49,6 +58,9 @@ rmdir <directory_name>
 ```
 
 **Output:**
+
+<img width="791" height="48" alt="image" src="https://github.com/user-attachments/assets/35f63fe2-1160-4983-a574-d7e844d66ce6" />
+
 
 ### 5. `cd` Command
 
@@ -61,6 +73,9 @@ cd <directory_name>
 
 **Output:**
 
+<img width="815" height="76" alt="image" src="https://github.com/user-attachments/assets/b99a0017-a5da-487f-82ea-37451ff66e98" />
+
+
 ### 6. `cat` Command
 
 The `cat` command is used to create, display, and concatenate files.
@@ -72,6 +87,9 @@ cat [OPTION]... [FILE]...
 
 **Output:**
 
+<img width="800" height="157" alt="image" src="https://github.com/user-attachments/assets/120cc65b-3fd6-444d-bdb6-26128e99527e" />
+
+
 ### 7. `cp` Command
 
 The `cp` command is used to copy files or directories.
@@ -82,6 +100,9 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+
+<img width="811" height="151" alt="image" src="https://github.com/user-attachments/assets/2a1f532a-5fe1-44b9-a3d1-bfa0a6fb7e84" />
+
 
 ### 8. `gedit` Command
 
