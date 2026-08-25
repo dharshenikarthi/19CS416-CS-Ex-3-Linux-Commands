@@ -115,6 +115,9 @@ gedit <file_name>
 
 **Output:**
 
+<img width="796" height="33" alt="image" src="https://github.com/user-attachments/assets/37911dfa-7b5f-493c-8d93-39ece333c0d9" />
+
+
 ### 9. `su` Command
 
 The `su` command provides administrative access to another user.
@@ -125,6 +128,9 @@ su <username>
 ```
 
 **Output:**
+
+<img width="821" height="142" alt="image" src="https://github.com/user-attachments/assets/da0c13cb-f230-44a2-8b26-d09ccfdeb82b" />
+
 
 ### 10. `mv` Command
 
@@ -137,6 +143,9 @@ mv <file_name> <directory_path>
 
 **Output:**
 
+<img width="801" height="161" alt="image" src="https://github.com/user-attachments/assets/8ef39651-db4c-49f0-8994-f48e951a2d83" />
+
+
 ### 11. `rename` Command
 
 The `rename` command is used to rename files.
@@ -147,6 +156,9 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+
+<img width="801" height="44" alt="image" src="https://github.com/user-attachments/assets/ec7f9cfd-b44f-449c-80c4-b65dbb2374ae" />
+
 
 ### 12. `head` Command
 
@@ -159,6 +171,9 @@ head <file_name>
 
 **Output:**
 
+<img width="787" height="206" alt="image" src="https://github.com/user-attachments/assets/bbddb48a-dacd-4da4-bc5d-41455e13d4fb" />
+
+
 ### 13. `tail` Command
 
 The `tail` command displays the last 10 lines of a file.
@@ -169,6 +184,9 @@ tail <file_name>
 ```
 
 **Output:**
+
+<img width="816" height="196" alt="image" src="https://github.com/user-attachments/assets/9ae6cca5-705b-4711-b3e6-888f57abfc5f" />
+
 
 ### 14. `id` Command
 
@@ -181,6 +199,9 @@ id
 
 **Output:**
 
+<img width="814" height="87" alt="image" src="https://github.com/user-attachments/assets/63bbc611-649e-458a-8876-8acec1c872e0" />
+
+
 ### 15. `grep` Command
 
 The `grep` command is used to search for a pattern within files.
@@ -191,6 +212,9 @@ command | grep <search_word>
 ```
 
 **Output:**
+
+<img width="703" height="76" alt="image" src="https://github.com/user-attachments/assets/354697ac-f795-4f83-ab32-10fe315db276" />
+
 
 ### 16. `tr` Command
 
@@ -203,6 +227,9 @@ command | tr <old> <new>
 
 **Output:**
 
+<img width="773" height="64" alt="image" src="https://github.com/user-attachments/assets/dfbb8599-f101-405c-a4bd-f9b6f4ead170" />
+
+
 ### 17. `chmod` Command
 
 The `chmod` command is used to change the access mode (permissions) of a file.
@@ -213,6 +240,9 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+
+<img width="665" height="83" alt="image" src="https://github.com/user-attachments/assets/6c4316d2-0407-4913-bfbe-cb207c0fef88" />
+
 
 ### 18. `tar` Command
 
@@ -225,6 +255,10 @@ tar [options] [archive-file] [files_to_archive]
 
 **Output:**
 
+<img width="801" height="127" alt="image" src="https://github.com/user-attachments/assets/f00af9d7-3cea-4ba3-a9f8-ca173803a3ec" />
+
+
+
 ### 19. `chown` Command
 
 The `chown` command is used to change the ownership of a file.
@@ -235,6 +269,9 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+
+<img width="776" height="88" alt="image" src="https://github.com/user-attachments/assets/08bc15a9-3364-4609-92af-d58253eca815" />
+
 
 ### 20. `make` Command
 
@@ -247,6 +284,9 @@ make [-f makefile] [options] [targets]
 
 **Output:**
 
+<img width="756" height="143" alt="image" src="https://github.com/user-attachments/assets/152e37a8-6e71-4fce-994b-2c199ec77791" />
+
+
 ### 21. `ifconfig` Command
 
 The `ifconfig` command is used to configure network interfaces.
@@ -257,6 +297,9 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+
+<img width="785" height="292" alt="image" src="https://github.com/user-attachments/assets/b3aea4e3-9183-494d-a4cf-1feaad530b32" />
+
 
 ### 22. `chmod 777` Command
 
@@ -269,6 +312,9 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
+
+<img width="774" height="111" alt="image" src="https://github.com/user-attachments/assets/d49aee72-7531-4aad-a5f0-fbc4af4a2899" />
+
 
 ### 23. `host` Command
 
@@ -292,6 +338,9 @@ gzip <file1> <file2> <file3>...
 
 **Output:**
 
+<img width="757" height="131" alt="image" src="https://github.com/user-attachments/assets/fd55fec1-080f-4353-a510-9c554b97ddb7" />
+
+
 ### 25. `sort` Command
 
 The `sort` command is used to sort the contents of a file alphabetically.
@@ -302,6 +351,9 @@ sort <file_name>
 ```
 
 **Output:**
+
+<img width="775" height="159" alt="image" src="https://github.com/user-attachments/assets/c69a9ab1-314e-41d1-a888-7148842395b7" />
+
 
 ### 26. `cal` Command
 
