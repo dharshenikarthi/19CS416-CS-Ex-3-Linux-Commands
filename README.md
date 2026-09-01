@@ -327,6 +327,9 @@ host <domain_name> or <ip_address>
 
 **Output:**
 
+<img width="886" height="147" alt="image" src="https://github.com/user-attachments/assets/1e2ea9e9-b35f-4ede-af68-4af25fc12eb8" />
+
+
 ### 24. `gzip` Command
 
 The `gzip` command is used to compress files, replacing the original file with a compressed one with a `.gz` extension.
@@ -366,7 +369,8 @@ cal
 
 **Output:**
 
-![Uploading image.png…]()
+<img width="795" height="157" alt="image" src="https://github.com/user-attachments/assets/057899ed-3f76-40fc-b172-bc0d607f9283" />
+
 
 
 ### 27. `clear` Command
@@ -379,6 +383,9 @@ clear
 ```
 
 **Output:**
+
+<img width="920" height="145" alt="image" src="https://github.com/user-attachments/assets/4bed866d-6b0e-44ed-b51c-20a6e357bdb9" />
+
 
 ### 28. `mail` Command
 
@@ -405,6 +412,9 @@ df
 
 **Output:**
 
+<img width="780" height="211" alt="image" src="https://github.com/user-attachments/assets/01cd9072-75dc-4847-b9e9-f27f9f276502" />
+
+
 ### 30. `find` Command
 
 The `find` command is used to search for files in a directory hierarchy.
@@ -416,4 +426,9 @@ find <directory> -name <file_name>
 
 **Output:**
 
+<img width="740" height="65" alt="image" src="https://github.com/user-attachments/assets/17838415-7b4c-47a4-ba66-0b88953518cc" />
+
+
 ## Result
+
+Linux commands are executed in the linux terminal successfully.
