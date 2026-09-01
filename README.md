@@ -366,6 +366,9 @@ cal
 
 **Output:**
 
+![Uploading image.png…]()
+
+
 ### 27. `clear` Command
 
 The `clear` command clears the terminal screen.
@@ -387,6 +390,9 @@ mail
 ```
 
 **Output:**
+
+<img width="790" height="115" alt="image" src="https://github.com/user-attachments/assets/bdcfc785-6937-4d72-b25c-63d3ee0e4167" />
+
 
 ### 29. `df` Command
 
